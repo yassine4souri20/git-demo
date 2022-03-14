@@ -18,7 +18,7 @@ public class Calculator {
 
 
     public int adv(){
-
+       if (b == 0) return 0;
         return 0;
     }
 }
